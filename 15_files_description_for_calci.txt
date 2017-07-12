@@ -1,0 +1,24 @@
+Calculator
+M - Creation of Table - Done
+V - Contains calls to buttons and display
+C - Listen to on click event of buttons and then tells which number/operator has been clicked
+
+Button
+M - Type of Button - Done
+V - Attributs(Shape, Size, color, etc.) 
+C - onClickEvent 
+
+Number Button
+M - Number Value - Done
+V - Attributs(Shape, Size, color, etc.) - Done
+C - onClickEvent
+
+Operator Button
+M - Operator Value - Done
+V - Attributes(Shape, Size, color, etc.) - Done
+C - onClickEvent
+
+Display
+M - 
+V - Attributes of the textbox(Shape, Size, Color, etc.)
+C - Listen to which number/operator has been clicked and displays it
